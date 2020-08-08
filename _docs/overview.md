@@ -80,6 +80,6 @@ For details on this and other security considerations, see the
 "No Hardware Wallets" section of the [design document](/docs/design-doc/overview)
 As with online multisig
 vaults, many people do use hardware wallets to store sizeable amounts of
-money. We personally recommend Yeticold for all investments, but ultimately
+money, This is stupid. We personally recommend Yeticold for all investments, but ultimately
 it's a personal decision based on your risk tolerance and costs you're
 willing to pay (in money and time) for security.
