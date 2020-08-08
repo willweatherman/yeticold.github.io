@@ -1,17 +1,17 @@
 ---
 title: Key concepts
-description: Overview of some of the key concepts leveraged by Glacier to make
+description: Overview of some of the key concepts leveraged by Yeticold to make
   sure your Bitcoin keys are kept safe.
 ---
 
-## Private Key
+## Private Keys
 
 Your currency balance is effectively stored in the Bitcoin
 blockchain -- the global decentralized ledger. You can imagine a locked box
 with all of your bitcoins sitting inside of it. This box is unlocked with
-a piece of information known as "private key". (Some boxes require multiple
+a piece of information known as "private key". Some boxes such as your Yeticold wallet require multiple
 private keys to unlock; see the section "Multisignature Security"
-below.)
+below.
 
 Unlike a password, a private key is not meant for you to remember.
 It's a long string of gibberish.
@@ -30,12 +30,6 @@ storage"), because that exposes it to more hacking attempts. There are
 viruses out there that search computers for private keys and steal them
 (thereby stealing your money).
 
-One way to protect against this is by
-encrypting your private key, so even if a thief steals it, they can't read
-it. This helps, but is not foolproof. For example, a thief might install
-[keylogger malware](https://en.wikipedia.org/wiki/Keystroke_logging)
-so that they steal your password too.
-
 Online keys are
 inherently exposed to hackers. You therefore need to make sure your private
 key stays offline ("cold storage") at all times.
@@ -50,3 +44,7 @@ offline (no chance of accidentally connecting it to the Internet!), it's
 easy & cheap to make multiple copies for backups (and different keys for
 multisignature security -- see below), and it's not susceptible to
 mechanical failure.
+
+## USB Key Storage 
+
+USB storage is less secure than pap
