@@ -1,8 +1,8 @@
 #!/bin/bash
 set -e
 
-CONTAINER_NAME_SITE=com.glacier.pdf
-FILENAME=assets/glacier.pdf
+CONTAINER_NAME_SITE=com.Yeticold.pdf
+FILENAME=assets/Yeticold.pdf
 # Set this if you want to keep intermediate artifacts for debugging
 KEEP_ARTIFACTS=
 WEBSITE_PORT=40000
@@ -27,7 +27,7 @@ rm_artifacts() {
 }
 
 run_site() {
-  echo "Deploying Glacier website"
+  echo "Deploying Yeticold website"
   docker run -dit --rm --name $CONTAINER_NAME_SITE \
     -v $(pwd):/usr/src/app \
     -p $WEBSITE_PORT:$WEBSITE_PORT \
@@ -43,7 +43,7 @@ poll_site() {
 }
 
 stop_site() {
-  echo "Stopping Glacier website"
+  echo "Stopping Yeticold website"
   docker stop $CONTAINER_NAME_SITE
 }
 
