@@ -1,50 +1,25 @@
 ---
 title: Hardware required
-description: Learn what hardware you need to acquire for using Glacier, the
+description: Learn what hardware you need to acquire for using Yeticold, the
   step-by-step protocol for storing bitcoins in a highly secure way
 ---
 
-Glacier has been written and tested around these specific equipment recommendations.
+Yeticold has been written and tested around these specific equipment recommendations.
 
 ### Eternally quarantined hardware: Set 1
 
-* Factory-sealed computer with 2 USB ports and a camera:
-[2016 Dell Inspiron 11.6"](http://a.co/1E6HEQA)
-* Two factory-sealed USB drives (2GB+) from the same manufacturer:
-[SanDisk Cruzer 8GB](http://a.co/1Us66ze).
+* Two Factory-sealed computers (Must have a camera capable of reading QR codes).
+* Seven factory-sealed USB drives (2GB+).
+* A printer.
 
-We'll be using two USB drives at the same time. If the computer has only one USB
-port, you'd need to use a USB hub, which is a separate piece of USB hardware subject
-to malware infection of its firmware.
+We'll be using the usb drives to store your NATO seeds and xpub descriptor. This dose have an added security risk of a maliciously added wifi card or you pluging the usb into a wifi enabled laptop. But also has the added convenience of not having to enter your entire NATO seeds to recover 
 
 We'll use the camera for reading QR codes.
 
-### Eternally quarantined hardware: Set 2
-
-* Factory-sealed computer from a different manufacturer, also with 2 USB ports
-and a camera:
-[Acer Aspire One Cloudbook 11"](http://a.co/1ZMSB3Y)
-* Two factory-sealed USB drives (2GB+) from the same manufacturer, but a different
-manufacturer than the drives for Set 1:
-[Verbatim 2GB](http://a.co/jdzEf8O)
-
-
-### Used/existing computing equipment
-
-* Two computers with Internet connectivity, administrator access, at least 4GB RAM, and about
-2GB of free disk space.  **Each computer must be running Windows 10, macOS, or
-Linux.**
-
-  One of these two computers should be a computer that you do not own (unless
-  purchased brand new), or that has spent much time on your home or office network.
-* Printer
-* Smartphone with a working camera
-
-
 ### Other Equipment
 
-* Two factory-sealed USB drives (2GB+):
-[Verbatim 2GB](http://a.co/jieluaE)
+While almost entiraly overkill you can look into the perks of some of these added methods:
+
 * [Precision screwdrivers](http://a.co/bbvj16a),
 for removing WiFi cards from laptops
 * [Electrical tape](http://a.co/gZZiEdA)
