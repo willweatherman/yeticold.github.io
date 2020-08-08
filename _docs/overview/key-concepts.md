@@ -47,4 +47,11 @@ mechanical failure.
 
 ## USB Key Storage 
 
-USB storage is less secure than pap
+USB storage is an addinonal optinol less secure conviente way to transfer you keys to the offline machine in the case of recovery.
+The trade off here is the convinece of not having to type in a hundred plus words to recovery and the added security risk of having a wifi chip inside or connected to the USB stick at somepoint.
+
+## NATO seed format
+
+The NATO sead format is a format for your bitcoin private that takes place in 
+
+
