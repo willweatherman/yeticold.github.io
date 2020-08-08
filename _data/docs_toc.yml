@@ -1,4 +1,4 @@
-- title: Glacier overview
+- title: Yeticold overview
   docs:
   - overview
   - overview/key-concepts
@@ -33,7 +33,7 @@
   docs:
   - check-balance/overview
   - check-balance/maintenance
-- title: Extend Glacier
+- title: Extend Yeticold
   docs:
   - extend/security
   - extend/improvements
